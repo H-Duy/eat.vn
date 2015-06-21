@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'UVF-Funkydori';
+	src: url('uvf-funkydori.eot');
+	src: url('uvf-funkydori.eot?#iefix') format('embedded-opentype'),
+		 url('uvf-funkydori.woff') format('woff'),
+		 url('uvf-funkydori.ttf') format('truetype'),
+		 url('uvf-funkydori.svg#uvf-funkydori') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
